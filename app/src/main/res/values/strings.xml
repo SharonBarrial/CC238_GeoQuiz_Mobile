@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">GeoQuiz</string>
+    <string name="es_lima_capital_de_per">¿Es Lima capital de Perú?</string>
+    <string name="s">Sí</string>
+    <string name="no">No</string>
+    <string name="anterior">Anterior</string>
+    <string name="siguiente">Siguiente</string>
+    <string name="geoquiz">GeoQuiz</string>
+    <string name="score">Puntaje: %1$d/%2$d</string>
+    <string name="develop">Developed by Sharon Barrial</string>
+</resources>

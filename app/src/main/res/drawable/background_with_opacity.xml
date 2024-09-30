@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<layer-list xmlns:android="http://schemas.android.com/apk/res/android">
+    <item>
+        <bitmap
+            android:src="@drawable/ss1"
+            android:gravity="center"
+            android:tileMode="disabled"
+            android:filter="true"/>
+    </item>
+    <item>
+        <color android:color="#B3000000" /> <!-- Color negro con 50% de opacidad -->
+    </item>
+</layer-list>
